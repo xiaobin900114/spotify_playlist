@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/spotify_playlist/static/css/main.8e688f82.chunk.css",
+    "main.js": "/spotify_playlist/static/js/main.6785afcd.chunk.js",
+    "main.js.map": "/spotify_playlist/static/js/main.6785afcd.chunk.js.map",
+    "runtime~main.js": "/spotify_playlist/static/js/runtime~main.8afe465e.js",
+    "runtime~main.js.map": "/spotify_playlist/static/js/runtime~main.8afe465e.js.map",
+    "static/js/2.0f58faaa.chunk.js": "/spotify_playlist/static/js/2.0f58faaa.chunk.js",
+    "static/js/2.0f58faaa.chunk.js.map": "/spotify_playlist/static/js/2.0f58faaa.chunk.js.map",
+    "index.html": "/spotify_playlist/index.html",
+    "precache-manifest.c566adc615a02b486b16881b9861f22c.js": "/spotify_playlist/precache-manifest.c566adc615a02b486b16881b9861f22c.js",
+    "service-worker.js": "/spotify_playlist/service-worker.js",
+    "static/css/main.8e688f82.chunk.css.map": "/spotify_playlist/static/css/main.8e688f82.chunk.css.map",
+    "static/media/App.css": "/spotify_playlist/static/media/background_photo_desktop.37be7357.jpg"
+  }
+}
