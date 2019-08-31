@@ -1,5 +1,5 @@
 const clientID = 'b0db004c9d2c473f89fbc6190e742a5b';
-const redirectURI = 'http://localhost:3000';
+const redirectURI = 'https://xiaobin900114.github.io/spotify_playlist/';
 const tokenClientID = '19e26044114a49dfa408c0912012a725';
 const authorUrl = `https://accounts.spotify.com/authorize?client_id=${tokenClientID}&redirect_uri=${redirectURI}&scope=playlist-modify-private&response_type=token&state=123`;
 const searchUrl = 'https://api.spotify.com/v1/search';
